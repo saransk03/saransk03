@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/9335ca4f4ead6ed16adbddcb35de46b2c67cecc6c584c5d5919e6d0d62f0a940/68747470733a2f2f74332e667463646e2e6e65742f6a70672f30332f31382f36302f36322f3336305f465f3331383630363231375f486b386a6f324d566f49333353514f6b5972664f463932394a374a67495030502e6a7067)]
+![MasterHead](https://camo.githubusercontent.com/9335ca4f4ead6ed16adbddcb35de46b2c67cecc6c584c5d5919e6d0d62f0a940/68747470733a2f2f74332e667463646e2e6e65742f6a70672f30332f31382f36302f36322f3336305f465f3331383630363231375f486b386a6f324d566f49333353514f6b5972664f463932394a374a67495030502e6a7067)
 <h1 align="center">Hi 👋, I'm Saran Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=Ffqv27FncRT1oBsuNQqA393jBjRq3JOsUh0zsbhE8Is">
