@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Front-End, MERN**
 
-- 📫 How to reach me **saransk3031@gmail.com**
+- 📫 How to reach me **saransk3103@gmail.com**
 
 - ⚡ Fun fact **When not in front of my screen, I’m probably planning my next web project in my head! 🤓🌐**
 
