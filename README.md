@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saransk03&label=Profile%20views&color=0e75b6&style=flat" alt="saransk03" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sk-portfolio-03.web.app/](https://sk-portfolio-03.web.app/)
+- 👨‍💻 All of my projects are available at [https://saransk-portfolio.vercel.app/](https://saransk-portfolio.vercel.app/)
 
 - 💬 Ask me about **Front-End, MERN**
 
